@@ -3,11 +3,11 @@
 
 
 
-<h1 align="left">I'm MD MOKAMMEL MORSHED and a Web & AI Developer from Khulna, Bangladesh</h1>
+<h1 align="left">I'm MD MOKAMMEL MORSHED </h1>
 
 ### About Me
-I’m **MD MOKAMMEL MORSHED**, a dedicated **Web & AI Developer** and **Automation Enthusiast** from Khulna, Bangladesh.  
-I’m currently pursuing a **Bachelor of Science (B.Sc.) in Urban & Regional Planning (BURP) at Khulna University of Engineering & Technology (KUET)**, where I apply **GIS, spatial analysis, and smart urban planning** to real-world projects.  
+I’m dedicated to **Web & AI Development** and **Automation Enthusiasm** from Khulna, Bangladesh.  
+I’m currently pursuing a in  **Urban & Regional Planning** at **Khulna University of Engineering & Technology**, where I apply **GIS, spatial analysis, and smart urban planning** to real-world projects.  
 
 My professional interests include **Web Development, n8n automation, SaaS platforms, AI agents, machine learning, and Web GIS**, and I continuously work on **building responsive websites, interactive web apps, and automated workflows** that deliver practical, efficient solutions.  
 
@@ -57,9 +57,9 @@ A recruiter should hire me because I can **combine my technical knowledge, autom
 
 ## Education
 
-- **B.Sc. Urban & Regional Planning — KUET** (Aug 2025 – Present) | GIS, spatial analysis, smart urban development
-- **HSC — BCIC College** (Feb 2022 – Jun 2024) | GPA: 5.00
-- **SSC — Ataturk Govt. Model High School** (Jan 2017 – Jul 2021) | GPA: 5.00
+- **BURP Urban & Regional Planning — KUET** [Aug 2025 – Present] | GIS, spatial analysis, smart urban development
+- **HSC — BCIC College** [Feb 2022 – Jun 2024] | GPA: 5.00
+- **SSC — Ataturk Govt. Model High School** [Jan 2017 – Jul 2021] | GPA: 5.00
 
 
 ### Social & Portfolio
